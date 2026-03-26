@@ -1,2 +1,2 @@
-# orint the output
+# print the output
 print("New Python file")
